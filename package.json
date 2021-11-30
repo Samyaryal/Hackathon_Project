@@ -1,5 +1,6 @@
 {
   "name": "hackathon-project",
+  "proxy": "https://open-api.myhelsinki.fi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
